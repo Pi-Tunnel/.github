@@ -57,7 +57,7 @@
 ### 1. Server Setup (One-Line Install)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Pi-Tunnel/Server/main/setup.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/Pi-Tunnel/Server/refs/heads/main/setup.sh -o /tmp/setup.sh && sudo bash /tmp/setup.sh
 ```
 
 ### 2. DNS Configuration
