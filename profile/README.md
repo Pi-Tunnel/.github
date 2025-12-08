@@ -2,6 +2,9 @@
 
 Open-source tunnel solution that securely exposes services on your local network to the internet. A self-hosted alternative similar to Cloudflare Tunnel.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![npm](https://img.shields.io/npm/v/pi-tunnel-client)](https://www.npmjs.com/package/pi-tunnel-client)
+
 ## Packages
 
 | Package | Description | Install |
