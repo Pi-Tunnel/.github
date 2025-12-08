@@ -4,6 +4,7 @@ Open-source tunnel solution that securely exposes services on your local network
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![npm](https://img.shields.io/npm/v/pi-tunnel-client)](https://www.npmjs.com/package/pi-tunnel-client)
+[![npm](https://img.shields.io/npm/v/pi-tunnel-server)](https://www.npmjs.com/package/pi-tunnel-server)
 
 ## Packages
 
