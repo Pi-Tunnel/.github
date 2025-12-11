@@ -11,7 +11,7 @@ Open-source tunnel solution that securely exposes services on your local network
 | Package | Description | Install |
 |---------|-------------|---------|
 | [pi-tunnel-client](https://www.npmjs.com/package/pi-tunnel-client) | PiTunnel Client | `npm install -g pi-tunnel-client` |
-| [pi-tunnel-server](https://www.npmjs.com/package/pi-tunnel-server) | PiTunnel Server | `npm install -g pi-tunnel-server` |
+| [pi-tunnel-server](https://www.npmjs.com/package/pi-tunnel-server) | PiTunnel Server (Should be installing via bash script) | `npm install -g pi-tunnel-server` |
 
 ## Features
 
